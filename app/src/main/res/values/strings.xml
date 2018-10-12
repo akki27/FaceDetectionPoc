@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FaceDetectionPoc</string>
+    <string name="action_settings">Settings</string>
+    <string name="subscription_key">467303d4744d4f8b9f622d5fb3bdeaae</string>
+
+    <string name="detection">Detection</string>
+
+    <!-- Detection activity -->
+    <string name="image">Image:</string>
+    <string name="select_image">Select\nImage</string>
+    <string name="result">Detection Results:</string>
+    <string name="result_summary">Results Summary:</string>
+    <string name="detect">Start Detection</string>
+
+    <!-- Select image activity -->
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">From Gallery</string>
+
+
+    <string name="Reset">Reset Results</string>
+    <string name="initial_info">Detection service not running...click on Start Detection</string>
+
+    <string name="detection_started">Detection Service Started....please wait!</string>
+    <string name="detection_inProgress">Detection In-Progress...please wait!</string>
+    <string name="no_fd_support">No Face Detection Support!</string>
+    <string name="no_face_found">No Face Found in Current Frame!</string>
+    <string name="error_results">Opps! Something wrong...Pls Reset!</string>
+</resources>
